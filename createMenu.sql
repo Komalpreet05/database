@@ -1,0 +1,5 @@
+
+CREATE TABLE  menu (
+menu_code INT(10) AUTO_INCREMENT PRIMARY KEY,
+menu_name VARCHAR(20)
+)
